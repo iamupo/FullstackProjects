@@ -1,3 +1,6 @@
 [submodule "blackin-tech"]
 	path = blackin-tech
 	url = https://github.com/upovibe/blackin-tech.git
+[submodule "upoconnect"]
+	path = upoconnect
+	url = https://github.com/upovibe/upoconnect.git
