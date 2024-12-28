@@ -4,3 +4,6 @@
 [submodule "upoconnect"]
 	path = upoconnect
 	url = https://github.com/upovibe/upoconnect.git
+[submodule "CHAT-UP"]
+	path = CHAT-UP
+	url = https://github.com/upovibe/CHAT-UP.git
